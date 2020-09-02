@@ -1,0 +1,16 @@
+ Ibrahim     Bocus  170994GLPR  02/09/1996   True  1321  2500  london
+  Daniel    Teegan  150193FRHT  17/08/1999   True  4321     0  london
+   Mehdi    Shamaa  020390AQWS  22/02/2000   True  1321  3487  Dublin
+    Tony      Hawk  210799LQRV  20/12/1991   True  4321  2087  Lisbon
+    Jack     Bauer  221290QPWR  29/09/1987   True  1321  9023     N/A
+     Jon     Jones  150984LLPR  02/09/1996   True  4321  2500  london
+     Max  Holloway  220198LPTT  17/08/1999   True  1321     0  london
+   Sammy   Loqbeti  340991MPWS  22/02/2003  False   N/A  3487  Dublin
+   Jorge  Masvidal  020991LPWS  22/02/2003   True  1321  3487  Dublin
+    Tony  Ferguson  110779MZAH  20/12/1991   True  4321  2087  Lisbon
+   Jamie     Footy  340661MPWS  22/02/2000  False   N/A  3187  Dublin
+  Dustin    Poirer  991290MJUT  29/09/1987   True  2221  9023     N/A
+    Rush  Holloway  990779MZAH  20/12/1991   True  4321  2087  Lisbon
+  Dustin     Smith  011290MLUT  29/09/1987   True  2221  9023     N/A
+  Kamaru     Usman  300561NQWS  22/02/1988  False   N/A  3187  Dublin
+ Ibrahim     Bocus        1234  22/04/1996   True  1400   200     N/A
